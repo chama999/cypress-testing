@@ -9,7 +9,7 @@
   "dependencies": {
     "cypress": "^9.5.0"  },
   "scripts": {
-    "test": "/node_modules/.bin/cypress run"
+    "test": "cypress run"
   },
   "keywords": [
     "qa",
