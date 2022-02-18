@@ -1,0 +1,5 @@
+{
+    "url" : "http://automationpractice.com/index.php",
+    "searchElement" : "#search_query_top",
+    "searchButton" : "#searchbox > .btn"
+}
