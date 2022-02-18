@@ -9,7 +9,7 @@
   "dependencies": {
     "cypress": "^9.5.0"  },
   "scripts": {
-    "test": "cypress run"
+    "test": "npx cypress run"
   },
   "keywords": [
     "qa",
